@@ -1,0 +1,4 @@
+repository "QuickTaskP3Najar/QuickTaskP3Najar@1375858286997@cloud"
+  path "/"
+    br "/main"
+    co "/main"
